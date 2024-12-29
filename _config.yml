@@ -22,26 +22,26 @@ avatar: /images/Photo.jpg
 footer-links:
   dribbble:
   email: parab@evolbio.mpg.de
-  facebook:
-  flickr:
-  github: amitmerchant1990/reverie
-  instagram:
-  linkedin: 
-  pinterest:
+  # facebook:
+  # flickr:
+  # github: amitmerchant1990/reverie
+  # instagram:
+  linkedin: https://www.linkedin.com/in/lavisha-parab/
+  # pinterest:
   rss: rss
-  twitter: amit_merchant
-  stackoverflow: 
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
-  playconsole:
-  mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
+  # twitter: amit_merchant
+  # stackoverflow: 
+  # youtube: # channel/<your_long_string> or user/<user-name>
+  # googleplus: # anything in your profile username that comes after plus.google.com/
+  # playconsole:
+  # mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
 disqus: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: UA-43339302-11
+google_analytics:
 
 # For newer "GA4" analytics, use the following instead of the "UA" entry above
 #google_analytics_ga4: G-GABC1DEFG
