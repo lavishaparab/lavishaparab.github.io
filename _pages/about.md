@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Brief CV
 permalink: /about/
 ---
 
