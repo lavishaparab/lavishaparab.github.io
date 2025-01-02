@@ -4,14 +4,19 @@ title:
 permalink: /about/
 ---
 
-## EDUCATION
+### EDUCATION
 -------
 **Doctorate (Dr. rer. nat.)**, Magna cum laude <span style="float:right;">2020 - 2024</span> 
+
 Max Planck Institute for Evolutionary Biology, Germany	
 
-Master of Technology, Biotechnology & Biochemical Engineering
-Bachelor of Technology (Honours), Biotechnology and Biochemical Engineering CGPA: 9.04/10.00 (Class rank 2)
-Indian Institute of Technology Kharagpur (IIT KGP), India	2015 - 2020
+Master of Technology, Biotechnology & Biochemical Engineering 2015 - 2020
+
+Bachelor of Technology (Honours), Biotechnology and Biochemical Engineering
+
+Indian Institute of Technology Kharagpur (IIT KGP), India	
+
+CGPA: 9.04/10.00 (Class rank 2)
 
 -----------
 [Reverie](https://github.com/amitmerchant1990/reverie) 
