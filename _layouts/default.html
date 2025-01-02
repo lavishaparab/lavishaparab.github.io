@@ -24,8 +24,14 @@
 
             <div class="site-info">
               <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <p class="site-description">{{ site.description }} 
-              {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}">email</a>{% endif %}. {% if site.footer-links.bluesky %}<a href="https://bsky.app/profile/{{ site.footer-links.bluesky }}">bluesky</a>{% endif %} 
+              a {
+                  text-decoration: none; 
+                  color: black; 
+              }
+              <p class="site-description">{{ site.description }}  | 
+              {% if site.footer-links.email %}<a href="mailto:{{ site.footer-links.email }}">email</a>{% endif %}. 
+                {% if site.footer-links.bluesky %}<a href="https://bsky.app/profile/{{ site.footer-links.bluesky }}">bluesky</a>{% endif %}. 
+                {% if site.footer-links.linkedin %}<a href="https://www.linkedin.com/in/{{ site.footer-links.linkedin }}">linkedin</a>{% endif %}. 
               </p>
             </div>
 
