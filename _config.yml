@@ -31,10 +31,6 @@ footer-links:
   # rss: rss
   # twitter: amit_merchant
   # stackoverflow: 
-  # youtube: # channel/<your_long_string> or user/<user-name>
-  # googleplus: # anything in your profile username that comes after plus.google.com/
-  # playconsole:
-  # mastodon: # <your-mastodon-instance>/@<your-user-name> eg. fosstodon.org/@username
   bluesky: lavishaparab.bsky.social 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
