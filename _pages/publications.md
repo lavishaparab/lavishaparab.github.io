@@ -4,12 +4,22 @@ title: Publications
 permalink: /publications/
 ---
 
+Key: 🌐 = hyperlink to journal page | 📕 = PDF link (mostly open access)
+
 ### 2025
 
-- Parab, L,  Romeyer Dherbey, J, Rivera, N, Schwarz, M, Gallie, J, Bertels, F. **Chloramphenicol and gentamicin reduce resistance evolution to phage ΦX174 by suppressing a subset of E. coli C LPS mutants**.
+- Parab, L,  Romeyer Dherbey, J, Rivera, N, Schwarz, M, Gallie, J, Bertels, F. [**Chloramphenicol and gentamicin reduce the evolution of resistance to phage ΦX174 by suppressing a subset of E. coli LPS mutants**](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002952).
 Accepted to PLOS Biology
-[🌐](https://www.biorxiv.org/content/10.1101/2023.08.28.552763v3.full)
-[📕](../publications/Parab2024.pdf)
+[🌐](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002952)
+[📕](https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3002952&type=printable)
+
+[**Chloramphenicol and gentamicin reduce the evolution of resistance to phage ΦX174 by suppressing a subset of E. coli LPS mutants**](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002952)
+Parab, Lavisha, Dherbey, Jordan Romeyer, Rivera, Norma, Schwarz, Michael, Gallie, Jenna, & Bertels, Frederic.
+PLOS Biology. 2025. doi:10.1371/journal.pbio.3002952
+
+Parab, Lavisha, Dherbey, Jordan Romeyer, Rivera, Norma, Schwarz, Michael, Gallie, Jenna, & Bertels, Frederic. (2025). Chloramphenicol and gentamicin reduce the evolution of resistance to phage ΦX174 by suppressing a subset of E. coli LPS mutants. PLOS Biology, 23(1), e3002952. https://doi.org/10.1371/journal.pbio.3002952
+Parab L, Dherbey JR, Rivera N, Schwarz M, Gallie J, Bertels F. Chloramphenicol and gentamicin reduce the evolution of resistance to phage ΦX174 by suppressing a subset of E. coli LPS mutants. PLOS Biology. 2025;23(1):e3002952. doi:10.1371/journal.pbio.3002952
+
 
 ### 2024
 
@@ -40,3 +50,5 @@ Accepted to PLOS Biology
 ### In preparation
 
 - Parab L, Sezmis A, Sant D, McDonald M. **Trained phages suppress the evolution of phage resistance in microbial communities**.
+
+<!-- in the future, try a layout like Carolin Wendling or Ruth Ley's lab with the Title at the top, being a hyperlink. Then next line, authors' names. next line, Journal name, year, doi. -->
