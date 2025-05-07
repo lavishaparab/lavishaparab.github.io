@@ -21,7 +21,7 @@ avatar: /images/Photo.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: parab@evolbio.mpg.de
+  email: parab@mvp.lmu.de
   # facebook:
   # flickr:
   # github: amitmerchant1990/reverie
@@ -32,6 +32,7 @@ footer-links:
   # twitter: amit_merchant
   # stackoverflow: 
   bluesky: lavishaparab.bsky.social 
+  medium: voyagertourjours
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
